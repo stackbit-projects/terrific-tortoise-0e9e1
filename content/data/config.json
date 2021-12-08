@@ -52,7 +52,7 @@
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/super",
-                "style": "link",
+                "style": "primary",
                 "new_window": true
             },
             {
