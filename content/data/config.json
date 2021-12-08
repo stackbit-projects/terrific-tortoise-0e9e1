@@ -8,7 +8,7 @@
             {
                 "label": "Features",
                 "url": "/features",
-                "style": "link"
+                "style": "secondary"
             },
             {
                 "label": "Blog",
