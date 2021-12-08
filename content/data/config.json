@@ -34,7 +34,7 @@
         "logo_alt": "zzxczxczc"
     },
     "footer": {
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Contact Us",
